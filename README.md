@@ -4,8 +4,8 @@ Web Chat es una aplicación de chat en tiempo real que permite a los usuarios en
 
 ## Requisitos
 
-- Node.js (versión X.X.X)
-- NPM (versión X.X.X)
+- Node.js
+- NPM
 
 ## Instalación
 
